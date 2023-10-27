@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\odext\\Desktop\\Дзз\\Дз2\\Дз2.csproj": {}
+    "C:\\Users\\odext\\Desktop\\Дз2\\Дз2\\Дз2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\odext\\Desktop\\Дзз\\Дз2\\Дз2.csproj": {
+    "C:\\Users\\odext\\Desktop\\Дз2\\Дз2\\Дз2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\odext\\Desktop\\Дзз\\Дз2\\Дз2.csproj",
+        "projectUniqueName": "C:\\Users\\odext\\Desktop\\Дз2\\Дз2\\Дз2.csproj",
         "projectName": "Дз2",
-        "projectPath": "C:\\Users\\odext\\Desktop\\Дзз\\Дз2\\Дз2.csproj",
+        "projectPath": "C:\\Users\\odext\\Desktop\\Дз2\\Дз2\\Дз2.csproj",
         "packagesPath": "C:\\Users\\odext\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\odext\\Desktop\\Дзз\\Дз2\\obj\\",
+        "outputPath": "C:\\Users\\odext\\Desktop\\Дз2\\Дз2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\odext\\AppData\\Roaming\\NuGet\\NuGet.Config"
